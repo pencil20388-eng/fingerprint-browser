@@ -10,7 +10,7 @@
 
 ### 1. AdsPower（综合推荐）
 
-👉 官网：https://www.adspower.net/
+👉 官网：[https://www.adspower.net/](https://www.adspower.net/share/githubx)
 
 主打防关联的指纹浏览器，专为跨境电商、社媒矩阵、广告投放等多账号场景设计。核心特点：
 
